@@ -23,7 +23,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Links
 
 - Solution URL: https://github.com/NitiMittal/Social-prood-section-frontend.io
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://social-section-demo.netlify.app/
 
 ## My process
 
